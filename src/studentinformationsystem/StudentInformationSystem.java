@@ -12,7 +12,7 @@ public class StudentInformationSystem {
 
    
     public static void main(String[] args) {
-        String studentName = "Zaki";
+        String studentName = "aki";
         String studentID = "s88887";
         Scanner scan = new Scanner(System.in);
         
